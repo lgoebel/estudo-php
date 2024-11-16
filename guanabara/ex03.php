@@ -10,8 +10,9 @@
         //$variavel=45.222;
         //$nome="Lucas";
         //var_dump($nome);
+        $vetor = [0, "maria", 3.5];
+        var_dump($vetor);
 
-        
     ?>
 </body>
 </html>
